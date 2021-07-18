@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>BRGY. Online Appointment</title>
+	<h1> Brangay Online Appointment</h1>
 	<link rel="stylesheet"  href="brgy.css">
 	<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
 	<meta charset="utf-8">
