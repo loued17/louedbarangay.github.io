@@ -22,23 +22,9 @@
 			<li><a href=" searchindi.php">Search Individuals</a></li>
 			<li><a href="add.php">Add Description</a></li>
 			<li><a href="../index.php">Logout</a></li>
-			
-			
-
-
-
-	
-			
 
 		</ul>
-		
-
-
-
 	</nav>
-
-
-
 
 </header>
 <body >
@@ -47,14 +33,7 @@
 	<h2>My Information</h2>
 </div>
 <form method="post" action="index2.php" class="info">
-
-
- 
-
-
 <div class="Dcontent">
-
-
 	<label>ID: 
 
 	 	   <br>
@@ -74,39 +53,9 @@
 	 	   <label> Specialized In : 
 	 	   	 	   <br>
 	 	   <br>
-	 	   
 
-
-
-	
-        
-           
-	
 </div>
-
-  
-
-
-
- 
-
-
 </form>
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
 
 </body>
 </html>
