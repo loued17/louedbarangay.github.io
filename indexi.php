@@ -11,12 +11,8 @@
 <header>
 	<h1>Individuals</h1>
 		<nav>
-		
 
-
-		
 		<ul> 
-			
 		
 			<li><a href=" index.php">MyInfo</a></li>
 			<li><a href=" book.php">Book Appointment</a></li>
@@ -24,22 +20,10 @@
 			<li><a href="cancel.php">Cancel Booking</a></li>
 			<li><a href=" searchoff.php">Search BRGY. Officials</a></li>
 			<li><a href="../index.php">Logout</a></li>
-			
-
-
-
-	
-			
 
 		</ul>
-		
-
-
 
 	</nav>
-
-
-
 
 </header>
 <body >
@@ -47,15 +31,8 @@
 	<h2>My Information</h2>
 </div>
 
-
-
 <form method="post" action="index.php"  class="infoP" style="margin-left:-1px; margin-top:0px ;width: 40%;padding: 20px;border :3px solid #39ca74 ;background: white; border-radius: 10px 10px 10px 10px;">
-
-    
-
-
-
-
+	
 <div class="contentP" style="font-weight: bold;">
 
 
@@ -87,8 +64,6 @@
 
 	 	   	<div class="input-group">
 		<button type="submit" name="appointmenthistory" class="btn" style=" border-radius: 5px;margin-left: 80%; border:none;padding: 10px 20px 10px 20px">My Appointment History</button>
-        
-      
 	
 </div>
 	<div class="input-group">
