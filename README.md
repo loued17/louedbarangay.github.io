@@ -8,14 +8,7 @@
 	<meta name="viewport" content="width=device-width">
 	<meta http-equiv="X-UA-Compatible" content="id=edge">
 </head>
-<style>
-body {
-  background-image: url('brgy.png');
-  background-repeat: no-repeat;
-    background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
+
 <body >
 	
 	<div class="wrapper">
